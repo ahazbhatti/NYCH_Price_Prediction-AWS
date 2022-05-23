@@ -7,4 +7,4 @@ Price prediction of properties is one of the most important applications in real
 # Tools and Services
 Project was built in AWS.
 S3 Bucket was created and data was uploaded in there.
-Made a notebook instance in AWS SageMaker and connected the bucket to access data in S3 Data Lake
+Made a notebook instance in AWS SageMaker and connected the bucket to access data in S3 Data Lake to perform anaylsis on Dataset
